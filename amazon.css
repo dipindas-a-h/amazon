@@ -1,0 +1,22 @@
+body{
+    background-color: #BBBFBF;
+}
+.row{
+    margin-top: 7%;
+}
+.col-3{
+    background-color: white;
+    height: 400px;
+    width: 280px;
+    margin: 2px;
+    padding: 30px;
+    margin-top: 30px;
+}
+.img-thumbnail{
+    height: 280px;
+    width: 400px;
+}
+.link{
+    text-decoration: none;
+    margin-top: 400px;
+}
